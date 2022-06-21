@@ -32,6 +32,6 @@ Informações relevantes do curso
 -   git commit (move arquivo para unmodified) -m \" \" (adiciona
     mensagem em string entre as aspas)
 
--   git push (envia para o GitHub)
+-   git push (envia para o GitHub) origin main
 
--   git pull (puxa de volta do GitHub)
+-   git pull (puxa de volta do GitHub) origin main
