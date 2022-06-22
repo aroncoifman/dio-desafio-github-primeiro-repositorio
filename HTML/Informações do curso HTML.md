@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<header>
-			<img src="imagem_exemplo_1.jpg" alt="Exemplo de imagem para a pagina"> (aqui se poderia por o caminho para o arquivo da imagem imagem)
+			<img src="https://resultadosdigitais.com.br/files/2015/08/thestocks-imagem.jpg" alt="Exemplo de imagem para a pagina"> (aqui se poderia por o caminho para o arquivo da imagem imagem)
 			<h1>Aron Coifman</h1>
 		</header>
 		<section>
@@ -19,7 +19,7 @@
 			<article>
 				<header>
 					<h3>Post #1</h3>
-					<img src="imagem_exemplo_2" "alt="Segundo exemplo de imagem">
+					<img src="https://st2.depositphotos.com/6544740/9337/i/600/depositphotos_93376372-stock-photo-sunset-over-sea-pier.jpg" alt="Segundo exemplo de imagem">
 				</header>
 				<p>
 					EXEMPLO DE TEXTO COM LINK PARA <a href="https://github.com/aroncoifman/dio-desafio-github-primeiro-repositorio" target="_blank">GITHUB</a> e <a href="mailto:aron@coifman.com">e-mail</a> ficticio
